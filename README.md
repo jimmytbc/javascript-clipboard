@@ -1,2 +1,2 @@
-# javascript-input
+# javascript-clipboard
 Basic Javascript input demo
